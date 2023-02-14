@@ -1,5 +1,6 @@
 # Git Flow 
 [![N|Solid](https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg)](https://docs.github.com/en/get-started) GET START WITH GIT
+
 Git gives software developers the power to track, manage, and organize their code. In particular, Git helps developers collaborate on code with teammates, combining powerful features like commits and branches with specific principles and strategies helps teams organize code and reduce the time needed to manage to version. There are mainly 3 types of branch strategies have been flowed according to requirements. Git Flow is one of them. None of these workflows are set in stone and can, and should, be modified to fit your specific environment and needs.
 
 ## Flow Diagram 
